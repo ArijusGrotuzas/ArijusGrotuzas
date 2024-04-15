@@ -6,8 +6,6 @@
   </a>
 </div>
 
-<hr>
-
 ### Languages and Tools
 
 <div>
@@ -26,8 +24,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
 </div>
-
-<hr>
 
 ### Overview
 
